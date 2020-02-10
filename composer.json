@@ -1,0 +1,23 @@
+{
+    "name": "whmcs/spektra-pay",
+    "description": "Spektra makes it extremely easy for businesses to accept Mobile Money payments from and to multiple providers and currencies within minutes.",
+    "keywords": [
+        "whmcs",
+        "Spektra",
+        "gateway module",
+        "mobile money"
+    ],
+    "homepage": "https://spektra.co",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Spektra Development Team",
+            "email": "admin@spektra.co",
+            "homepage": "https://spektra.co",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "admin@spektra.co"
+    }
+}
